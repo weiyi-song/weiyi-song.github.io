@@ -80,7 +80,7 @@ module ExternalPosts
       when String
         Time.parse(published_date).utc
       when Date
-        published_date.to_time.utc
+        published_date.to_time(:utc)
       else
         raise "Invalid date format for #{published_date}"
       end
