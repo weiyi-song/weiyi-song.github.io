@@ -2,7 +2,7 @@
 layout: page
 title: 30-Day Challenges
 permalink: /challenges/
-description: Tracking my journey of building better habits, one month at a time
+description: Tracking my journey of building better habits, one month at a time.
 nav: false
 ---
 
